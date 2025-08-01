@@ -48,9 +48,6 @@ The **Substrate-Prism Neuron** integrates emotionally valenced inputs (e.g., bet
 
 ---
 
-## 🔖 Tags
-`#emotional-ai` `#AGI` `#prism-neuron` `#cognitive-architecture` `#mirror-logic` `#reasoning-model`
-
 ## 🌐 Website
 Visit our research page at: [366degreefitresearch.com](https://366degreefitresearch.com)
 
@@ -60,3 +57,5 @@ Feel free to reach out at:
 
 > *Emotion is the next frontier in AI reasoning.*
 > > *“If AI can feel the conflict, it can learn to reason like us.”*
+## 🔖 Tags
+`#emotional-ai` `#AGI` `#prism-neuron` `#cognitive-architecture` `#mirror-logic` `#reasoning-model`
