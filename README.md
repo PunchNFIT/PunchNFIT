@@ -59,3 +59,5 @@ Feel free to reach out at:
 > > *“If AI can feel the conflict, it can learn to reason like us.”*
 ## 🔖 Tags
 `#emotional-ai` `#AGI` `#prism-neuron` `#cognitive-architecture` `#mirror-logic` `#reasoning-model`
+
+“Substrate-Prism™ and Neuron Prism™ are trademarks of 366 Degree FitTech & Sci Institute. The code is open source; the trademarks may be used only to refer to the project and may not imply endorsement or affiliation.”
