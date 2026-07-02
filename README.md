@@ -9,7 +9,6 @@ We’re building emotional reasoning into machines — starting with the **Subst
 - [🧠 Prism Neuron](https://github.com/PunchNFIT/prism-neuron): Emotional AI framework for recursive reasoning
 - [📄 Live Paper](https://punchnfit.github.io/prism-neuron/): Read our latest preprint on emotional cognition in LLMs
 
-- 
 # 🧠 Substrate-Prism Neuron: A New Architecture for Emotional Reasoning in AI
 
 This repository supports the paper **“She Knows He Cheats But…”**, a theoretical framework introducing a new neuron model that allows AI to simulate emotional conflict, compromise, and recursive human-like reasoning.
