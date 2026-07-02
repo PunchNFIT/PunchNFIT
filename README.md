@@ -8,8 +8,6 @@ We’re building emotional reasoning into machines — starting with the **Subst
 ### 🔬 Featured Projects:
 - [🧠 Prism Neuron](https://github.com/PunchNFIT/prism-neuron): Emotional AI framework for recursive reasoning
 - [📄 Live Paper](https://punchnfit.github.io/prism-neuron/): Read our latest preprint on emotional cognition in LLMs
-- [🎮 ONE Agent](https://github.com/PunchNFIT/ONE) *(coming soon)*: AI fitness + life coach guided by emotional logic
-- [🧪 Biometric Wearables](https://github.com/PunchNFIT/hardware): Hardware interface for real-time health + emotional state tracking
 
 - 
 # 🧠 Substrate-Prism Neuron: A New Architecture for Emotional Reasoning in AI
